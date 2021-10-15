@@ -1,0 +1,23 @@
+_repo: Corporal-Jacques-of-the-Foreign-Legion_66453
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: ''
+gutenberg_issued: '2021-10-03'
+identifiers:
+  gutenberg: '66453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Corporal Jacques of the Foreign Legion
+url: http://www.gutenberg.org/ebooks/66453
